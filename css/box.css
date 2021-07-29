@@ -1,0 +1,60 @@
+.box1 p{
+    padding:0 0 0 0.3vw;
+    font:0.2vw;
+    cursor: pointer;
+}
+.box2 p{
+    padding:0 0 0 0.5vw ;
+    font:0.2vw;
+    cursor: pointer
+}
+.box3 p{
+    font:0.2vw;
+    cursor: pointer
+}
+.box4 p{
+    padding: 0 0 0 0.8vw;
+}
+.box6 p{
+    padding: 0 0 0 0.7vw;
+}
+.box8 p{
+    padding: 0 0 0 0.5vw;
+}
+.box9 p{
+    padding: 0 0 0 0.3vw;
+}
+p:hover{
+    color:blue;
+}
+.box1 img{
+    width: 5vw;
+    /* height: 4vw; */
+}
+.box2 img{
+    width: 5vw;
+}
+.box3 img{
+    width: 5vw;
+    padding: 0 0 0 0.5vw;
+}
+.box4 img{
+    width: 5vw;
+}
+.box5 img{
+    width: 5vw;
+    padding: 0 0 0 0.5vw;
+}
+.box6 img{
+    width: 5vw;
+}
+.box7 img{
+    width: 5vw;
+    padding: 0 0 0 3vw;
+}
+.box8 img{
+    width: 5vw;
+}
+.box9 img{
+    width: 5vw;
+}
